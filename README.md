@@ -1,7 +1,7 @@
 # spi-physical-design-qflow
 
 RTL-to-GDSII physical design implementation of an SPI (Serial Peripheral Interface)
-Master module using the open-source Qflow toolchain and the OSU018 standard cell library.
+Slave module using the open-source Qflow toolchain and the OSU018 standard cell library.
 
 > 👤 Student: Jagruthi Karamala  
 > 🎓 University: VIT AP University | Reg: 22BEC7269  
@@ -12,9 +12,9 @@ Master module using the open-source Qflow toolchain and the OSU018 standard cell
 
 ##  Project Overview
 
-This project demonstrates the complete backend VLSI design flow for an SPI Master,
+This project demonstrates the complete backend VLSI design flow for an SPI Slave,
 starting from a Verilog RTL description and ending with a fabrication-ready GDSII layout.
-It targets the **OSU018 open-source standard cell library** (0.18µm CMOS process).
+It targets the OSU018 open-source standard cell library (0.18µm CMOS process).
 
 ### SPI Protocol Summary
 
