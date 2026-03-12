@@ -1,0 +1,24 @@
+Qflow DRC logfile created on Thursday 12 March 2026 04:51:37 PM IST
+magic -dnull -noconsole  /home/jagruthi/Desktop/qflow_spi/layout/run_drc_spi_slave.tcl
+
+Magic 8.3 revision 50 - Compiled on Friday 11 July 2025 01:46:16 PM IST.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Input style lambda=0.10(p): scaleFactor=10, multiplier=1
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Loading "/home/jagruthi/Desktop/qflow_spi/layout/run_drc_spi_slave.tcl" from command line.
+Reading LEF data from file /usr/local/share/qflow/tech/osu018/osu018_stdcells.lef.
+This action cannot be undone.
+LEF read, Line 16 (Message): Unknown keyword "OBS" in LEF file; ignoring.
+LEF read, Line 17 (Message): Unknown keyword "PIN" in LEF file; ignoring.
+LEF read: Processed 2941 lines.
+Processing timestamp mismatches: FILL, MUX2X1, DFFSR, BUFX2, INVX1, INVX8, AOI21X1, INVX2, OAI21X1, NAND2X1, NOR2X1, AND2X2, AOI22X1, BUFX4, CLKBUF1, XOR2X1, OR2X2, OAI22X1, NOR3X1, NAND3X1, INVX4, XNOR2X1.
+drc = 0
+DRC checking script ended on Thursday 12 March 2026 04:51:37 PM IST
